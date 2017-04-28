@@ -1,11 +1,10 @@
 # Hello World
 - install node.js
-
-install angular cli:
+- install angular cli
 
 `npm install -g @angular/cli`
 
-## Start a new application
+### Start a new application
 
 `ng new hello-world`
 
@@ -13,6 +12,6 @@ install angular cli:
 or 
 `npm start`
 
-Navigate to [link] http://localhost:4200
+Navigate to http://localhost:4200
 
 And let the awesomeness begin!
