@@ -22,7 +22,7 @@ If no “start” property is specified on the “scripts” object, it will run
 
 which means it will call the start scripts inside the package.json
 
-ng serve is prrovided by `angular/angular-cli` to start angular2 apps which created by angular-cli. when you install angular-cli, it will create ng.cmd under C:\Users\name\AppData\Roaming\npm (for windows) and execute "%~dp0\node.exe" "%~dp0\node_modules\angular-cli\bin\ng" %*
+ng serve is provided by `angular/angular-cli` to start angular2 apps which created by angular-cli. when you install angular-cli, it will create ng.cmd under C:\Users\name\AppData\Roaming\npm (for windows) and execute "%~dp0\node.exe" "%~dp0\node_modules\angular-cli\bin\ng" %*
 
 So using npm start you can make your own execution where is ng serve is only for angular-cli
 
