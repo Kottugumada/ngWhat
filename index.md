@@ -17,4 +17,4 @@ Navigate to http://localhost:4200
 And let the awesomeness begin!
 
 In case you are wondering, what you just did. Here is some further drill down into what is going on:
-[1. What does 'npm start' or `ng server` do?](https://kottugumada.github.io/ngWhat/ng-serve)
+[What does 'npm start' or `ng server` do?](https://kottugumada.github.io/ngWhat/ng-serve)
