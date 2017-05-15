@@ -1,4 +1,4 @@
-## No Provider for string.
+## No Provider For String.
 You have created a child component and now are trying to pass values from the root module.
 
 This is because Angular instantiates the child class by its own and tries to inject in it the parameters you define at its constructor level. 
